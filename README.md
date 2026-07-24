@@ -19,6 +19,7 @@
 
 </p>
 
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2UzNWIyZmMtNzJhMS00YWQwLWI4OWEtMGM3OGIzNDI4NmJhIiwidCI6Ijg4ZDAwMzRjLTViNDctNGNkNy1iOTU2LTk0NjdlODY2MjM3NyJ9&embedImagePlaceholder=true)
 <p align="center">
   <img src="./dashboard.png" alt="Power BI Dashboard Preview" width="1000">
 </p>
