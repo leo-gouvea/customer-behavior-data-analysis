@@ -19,6 +19,8 @@
 
 </p>
 
+<iframe title="Customer Behavior Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2UzNWIyZmMtNzJhMS00YWQwLWI4OWEtMGM3OGIzNDI4NmJhIiwidCI6Ijg4ZDAwMzRjLTViNDctNGNkNy1iOTU2LTk0NjdlODY2MjM3NyJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+
 <p align="center">
   <img src="./dashboard.png" alt="Power BI Dashboard Preview" width="1000">
 </p>
